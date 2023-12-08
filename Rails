@@ -66,6 +66,7 @@ How to add external code to devise controller
 Metaprogramming
 Overloading and overriding with example
 Difference between has_many:through and has_and_belongs_to_many 
+class, global, instance variables
 
 
 
