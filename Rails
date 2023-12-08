@@ -1,0 +1,79 @@
+Diff between include extend prepend(include means able to access, extend means they become class methods and extend on object means they can only access, prepend if module has method abc and class has method abc and module is included in class and calls the abc methodnfirst module method will be called then class method)
+singleton objects(will initiate only ones)
+sidekiq 
+joins 
+string and symbol(What's the difference between a string and a symbol in Ruby?)
+How to clear the view 
+Callbacks 
+Validations 
+Migrations
+Polymorphic association
+Delegates 
+How does Rails know that a migration has been up'ed/run? [duplicate] 
+ORM 
+caffolding 
+devise and their options(https://github.com/heartcombo/devise)
+Routes(diff between member and collection, scope and namespace) 
+Delete and destroy(delete will remove only that particular data whereas destroy will remove correspondent data) 
+Overloading and overriding 
+How to access method of parent class using inheritance 
+Diff between class and module 
+Gems for rspec
+Oops concepts 
+n+1 query problem 
+filters(before and after action) 
+observers 
+Each_validator 
+custom validations
+Diff btw private and protected with ex 
+Scopes in active record Diff between scope and class methods
+Dynamic and static scaffolding diff 
+Seed migrations
+Has and belong to many and has many through difference 
+DRY principles 
+Blocks and (Proc & lamba) 
+No of ways you call a method(., .send) 
+Attribute accessor and attr reader and attr writer 
+diff Design patterns 
+How do you add a custom method to an array datatype
+Name few meta programming methods name in ruby 
+Diff btw class eval and instance eval 
+Inject and reject with ex 
+Activerecord querying  
+includes and joined diff 
+Pre-load and eager load Rails & custom loggers 
+Engines
+mixins: https://blog.appsignal.com/2021/01/13/using-mixins-and-modules-in-your-ruby-on-rails-application.html
+Web packer Components fo rails
+Actionable 
+Active jobs 
+rspecs 
+CI/CD 
+TDD/BDD 
+Implicit receiver Explicit receiver 
+Where are the timestamps of migration stored 
+Memoize 
+Strong params 
+Main difference between rails versions 
+Enums 
+Rspec: double, mock 
+Concerns 
+Diff between put and patch
+Super 
+Diff between delayed job and sidekiq 
+Lib folder 
+How to add external code to devise controller 
+Metaprogramming
+Overloading and overriding with example
+Difference between has_many:through and has_and_belongs_to_many 
+
+
+
+222 - divide and pick proper currency required for it API hit 
+Factorial 
+Sorting 
+Fibonacci 
+Palindrome 
+Pick uniq from two arrays 
+Count the occurrences of char in array 
+Sort the hash keys Swap key value of a hash 
